@@ -4,8 +4,12 @@ BIblioteca
 Criado para converter um código visualG para Java ou C.
 
 Para implementar em seu projeto você deve :
+
+
 //impporte a classe de conversão
+
 import br.com.yanccprogramador.converter;
+
 public class{
 
 converter c=new converter();
